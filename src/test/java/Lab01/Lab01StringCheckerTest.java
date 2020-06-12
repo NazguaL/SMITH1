@@ -1,3 +1,6 @@
+package Lab01;
+
+import Lab01.Lab01StringChecker;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

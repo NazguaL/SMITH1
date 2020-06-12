@@ -1,3 +1,6 @@
+package Lab02;
+
+import Lab02.Lab02PersonEquals;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
